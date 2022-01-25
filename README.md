@@ -5,7 +5,7 @@
 #### Fall detector, an app which notify you when your phone fell 
 
 | Main | When detector service started | when detector stopped |when detector detect falling |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | ![](screenshots/1.png) | ![](screenshots/2.png)  | ![](screenshots/3.png) |![](screenshots/4.png) |
 
 
