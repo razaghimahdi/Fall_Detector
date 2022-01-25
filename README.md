@@ -6,7 +6,7 @@
 
 | Main | When detector service started | when detector stopped |when detector detect falling |
 | :---: | :---: | :---: | :---: |
-| ![](screenshots/1.png) | ![](screenshots/2.png)  | ![](screenshots/3.png) |![](screenshots/4.png) |
+| ![](screenshots/1.jpg) | ![](screenshots/2.jpg)  | ![](screenshots/3.jpg) |![](screenshots/4.jpg) |
 
 
 ### What tech and component has been used for this?
