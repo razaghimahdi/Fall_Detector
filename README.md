@@ -10,7 +10,7 @@
 
 
 ### What tech and component has been used for this?
-**services**  
+**Services**  
 **Sensors** 
 
 ### What is Services?
