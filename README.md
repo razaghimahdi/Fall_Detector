@@ -57,6 +57,3 @@ ViewModel and LiveData are designed around the use of lifecycles,
 so you could theoretically use them with a LifecycleService,
 but that would probably be counter-productive since they are intended for UI.
 
-
-#### source: 
-https://developer.android.com
