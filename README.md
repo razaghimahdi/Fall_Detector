@@ -4,6 +4,9 @@
 
 #### Fall detector, an app which notify you when your phone fell 
 
+## Give a Star! ⭐
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+
 | Main | When detector service started | when detector stopped |when detector detect falling |
 | :---: | :---: | :---: | :---: |
 | ![](screenshots/1.jpg) | ![](screenshots/2.jpg)  | ![](screenshots/3.jpg) |![](screenshots/4.jpg) |
